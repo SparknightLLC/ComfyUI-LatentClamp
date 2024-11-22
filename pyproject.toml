@@ -1,6 +1,6 @@
 # pyproject.toml
 [project]
-name = "ComfyUI-LatentClamp" # Unique identifier for your node. Immutable after creation.
+name = "comfyui-latentclamp" # Unique identifier for your node. Immutable after creation.
 description = "A node for ComfyUI that modifies the values in the samples input that fall outside of a min and max range using a multiplier."
 version = "0.0.2" # Custom Node version. Must be semantically versioned.
 license = { file = "LICENSE.txt" }
